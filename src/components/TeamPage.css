@@ -1,0 +1,23 @@
+/* TeamPage specific styles for larger profile photos */
+.team-officer-avatar {
+  width: 160px !important;
+  height: 160px !important;
+  min-width: 160px !important;
+  min-height: 160px !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+}
+
+.team-officer-avatar img,
+.team-officer-avatar [data-slot="avatar-image"] {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+/* Make sure the avatar container is sized correctly */
+.team-officer-card .team-officer-avatar {
+  flex-shrink: 0;
+}
+
