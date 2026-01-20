@@ -33,8 +33,8 @@ export default function Footer({ setCurrentPage }) {
           {/* Club Information */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-medium">S</span>
+              <div className="w-16 bg-primary rounded-lg flex items-center justify-center">
+               <img src="/images/file.jpg" alt="logo" />
               </div>
               <div>
                 <h3 className="font-semibold">Springer Research Paper Club</h3>
@@ -84,18 +84,18 @@ export default function Footer({ setCurrentPage }) {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-muted-foreground" />
-                <span className="text-sm text-muted-foreground">research@springer.edu</span>
+                <span className="text-sm text-muted-foreground">scset.bsc@bennett.edu.in</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-muted-foreground" />
-                <span className="text-sm text-muted-foreground">+1 (555) 123-4567</span>
+                <span className="text-sm text-muted-foreground">+91 70564 88403</span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="h-4 w-4 text-muted-foreground mt-0.5" />
                 <span className="text-sm text-muted-foreground">
-                  University Research Center<br />
-                  123 Academic Way<br />
-                  Springfield, IL 62701
+                  Plot No. 8-11, Tech Zone II,<br />
+                   Greater Noida,<br />
+                   Uttar Pradesh 201310<br/>
                 </span>
               </div>
             </div>

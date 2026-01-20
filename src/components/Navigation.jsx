@@ -68,8 +68,8 @@ export default function Navigation({
         <div className="flex items-center justify-between h-16">
           {/* Logo and Brand */}
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-primary-foreground font-medium">S</span>
+            <div className="w-16 h-8 bg-primary rounded-lg flex items-center justify-center">
+              <img src="/images/file.jpg" alt="logo" />
             </div>
             <div className="flex flex-col">
               <h1 className="text-lg font-medium">

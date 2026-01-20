@@ -36,7 +36,7 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: "Phone",
-      details: "(555) 123-4567",
+      details: "+91 7056488403",
       description: "Office hours only"
     },
     {
@@ -55,23 +55,23 @@ export default function ContactPage() {
 
   const keyContacts = [
     {
-      name: "Dr. Emily Richardson",
+      name: "Dr. Simar Preet Singh",
       role: "Faculty Advisor",
       email: "scset.bsc@bennett.edu.in",
-      office: "Engineering Building, Room 312",
+      office: "M-Block Cabin 318",
       hours: "Tue/Thu 1:00-3:00 PM"
     },
     {
-      name: "Alex Chen",
+      name: "Kritika Dawar",
       role: "Club President",
-      email: "alex.chen@student.edu",
+      email: "e23cseu0642@bennett.edu.in",
       office: "Student Union, Room 204",
       hours: "Mon/Wed/Fri 3:00-4:00 PM"
     },
     {
-      name: "Sarah Johnson",
+      name: "Jasnoor Kaur Bhullar",
       role: "Vice President",
-      email: "sarah.j@student.edu",
+      email: "e23cseu0512@bennett.edu.in",
       office: "Student Union, Room 204",
       hours: "Tue/Thu 2:00-4:00 PM"
     }

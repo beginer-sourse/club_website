@@ -12,7 +12,7 @@ export default function TeamPage() {
     department: "Computer Science",
     email: "scset.bsc@bennett.edu.in",
     bio: "Dr. Simar Preet Singh specializes in cloud computing.",
-    image: "https://images.unsplash.com/photo-1494790108755-2616b612b043?w=400"
+    image: "/images/simar_sir.jpeg"
   };
 
   const officers = [
@@ -34,7 +34,7 @@ export default function TeamPage() {
       major: "Computer Science",
       email: "jasnoor.bhullar@student.edu",
       bio: "Supporting club leadership and strategic initiatives.",
-      image: "/images/PHOTO-2025-11-16-23-59-53.jpg"
+      image: "/images/PHOTO-2025-11-14-16-57-21.jpg"
     },
     {
       name: "Gunnidhi Mago",
@@ -121,7 +121,7 @@ export default function TeamPage() {
     },
     {
       name: "Jatin Sharma",
-      position: "Co-head Teach",
+      position: "Co-head Tech",
       year: "Senior",
       major: "Computer Science",
       // email: "sneha.iyer@student.edu",
@@ -131,7 +131,7 @@ export default function TeamPage() {
     },
     {
       name: "Piyush Yadav",
-      position: "Head of Teach",
+      position: "Head of Tech",
       year: "Senior",
       major: "computer Science",
       // email: "karan.malhotra@student.edu",
