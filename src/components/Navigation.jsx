@@ -73,7 +73,7 @@ export default function Navigation({
             </div>
             <div className="flex flex-col">
               <h1 className="text-lg font-medium">
-                {isDesktop ? "Springer Research Paper Club" : "Paper Club"}
+                {isDesktop ? "Springer Research Club" : "Springer Research Club"}
               </h1>
               {isDesktop && (
                 <p className="text-sm text-muted-foreground">

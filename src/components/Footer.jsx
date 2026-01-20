@@ -37,7 +37,7 @@ export default function Footer({ setCurrentPage }) {
                <img src="/images/file.jpg" alt="logo" />
               </div>
               <div>
-                <h3 className="font-semibold">Springer Research Paper Club</h3>
+                <h3 className="font-semibold">Springer Research Club</h3>
                 <p className="text-sm text-muted-foreground">Academic Excellence Through Research</p>
               </div>
             </div>
@@ -126,7 +126,7 @@ export default function Footer({ setCurrentPage }) {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-4">
               <p className="text-sm text-muted-foreground">
-                © {currentYear} Springer Research Paper Club. All rights reserved.
+                © {currentYear} Springer Research Club. All rights reserved.
               </p>
               <div className="flex space-x-4">
                 <Button variant="ghost" size="sm" className="text-xs text-muted-foreground hover:text-foreground p-0 h-auto">

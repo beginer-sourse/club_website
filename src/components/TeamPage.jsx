@@ -37,23 +37,25 @@ export default function TeamPage() {
       image: "/images/PHOTO-2025-11-14-16-57-21.jpg"
     },
     {
-      name: "Gunnidhi Mago",
-      position: "Co-Head Design Team",
+      name: "Piyush Yadav",
+      position: "Head of Tech",
       year: "Senior",
-      major: "Computer Science",
-      email: "gunnidhi.mago@student.edu",
-      bio: "Leading design initiatives and visual identity for the club.",
-      image: "/images/PHOTO-2025-11-14-20-45-25.jpg"
+      major: "computer Science",
+      // email: "karan.malhotra@student.edu",
+      bio: "Creatiion of website and its maintenance and engaging with the online community.",
+      image: "/images/PHOTO-2025-11-18-01-22-45.jpg"
     },
     {
-      name: "Garvita Singh",
-      position: "Co-head Content Writing",
-     year: "Senior",
+      name: "Jatin Sharma",
+      position: "Co-head Tech",
+      year: "Senior",
       major: "Computer Science",
-      email: "garvita.singh@student.edu",
-      bio: "Leading content creation and writing initiatives for the club.",
-      image: "/images/PHOTO-2025-11-14-16-38-05.jpg"
+      email: "jatinsharma1400@gmail.com",
+      linkedin: "linkedin.com/in/jatinsharma1400",
+      bio: "Managing website and its maintenance and engaging with the online community.",
+      image: "/images/PHOTO-2025-11-17-23-05-18.jpg"
     },
+    
     {
       name: "Diva Malik",
       position: "Head Social Media Team",
@@ -62,6 +64,15 @@ export default function TeamPage() {
       email: "diva.malik@student.edu",
       bio: "Managing social media strategy and engaging with the online community.",
       image: "/images/PHOTO-2025-11-14-20-43-41.jpg"
+    },
+    {
+      name: "Vanshika Dhull",
+      position: "Co-Head Social Media Team",
+     year: "Senior",
+      major: "Computer Science",
+      email: "vanshika.dhull@student.edu",
+      bio: "Contributing to club activities and initiatives.",
+      image: "/images/PHOTO-2025-11-14-20-42-57.jpg"
     },
     {
       name: "Prachi Shoree",
@@ -73,33 +84,25 @@ export default function TeamPage() {
       bio: "Leading design initiatives and visual identity for the club.",
       image: "/images/PHOTO-2025-11-14-16-41-42.jpg"
     },
+    ,
     {
-      name: "Vanshika Dhull",
-      position: "Member",
-     year: "Senior",
-      major: "Computer Science",
-      email: "vanshika.dhull@student.edu",
-      bio: "Contributing to club activities and initiatives.",
-      image: "/images/PHOTO-2025-11-14-20-42-57.jpg"
-    },
-    {
-      name: "Udit Bhardwaj",
-      position: "Co-head social media",
+      name: "Gunnidhi Mago",
+      position: "Co-Head Design Team",
       year: "Senior",
       major: "Computer Science",
-      email: "udit.bhardwaj@student.edu",
-      linkedin: "linkedin.com/in/uditbhardwaj",
-      bio: "Managing social media strategy and online engagement for the club.",
-      image: "/images/PHOTO-2025-11-14-16-45-56.jpg"
+      email: "gunnidhi.mago@student.edu",
+      bio: "Leading design initiatives and visual identity for the club.",
+      image: "/images/PHOTO-2025-11-14-20-45-25.jpg"
     },
+    
     {
-      name: "Shikhar",
-      position: "Member",
+      name: "Himanshi Singal",
+      position: "Head PR and Outreach",
       year: "Senior",
       major: "Computer Science",
-      email: "shikhar@student.edu",
-      bio: "Contributing to club activities and initiatives.",
-      image: "/images/PHOTO-2025-11-14-15-26-11.jpg"
+      email: "himanshi.singal@student.edu",
+      bio: "Leading public relations and outreach initiatives to build connections and promote the club.",
+      image: "/images/PHOTO-2025-11-16-23-56-17.jpg"
     },
     {
       name: "Shreya Tiwari",
@@ -111,33 +114,36 @@ export default function TeamPage() {
       image: "/images/PHOTO-2025-11-16-23-54-59.jpg"
     },
     {
-      name: "Himanshi Singal",
-      position: "Head PR and Outreach",
+      name: "Udit Bhardwaj",
+      position: "Head Finance Team",
       year: "Senior",
       major: "Computer Science",
-      email: "himanshi.singal@student.edu",
-      bio: "Leading public relations and outreach initiatives to build connections and promote the club.",
-      image: "/images/PHOTO-2025-11-16-23-56-17.jpg"
+      email: "udit.bhardwaj@student.edu",
+      linkedin: "linkedin.com/in/uditbhardwaj",
+      bio: "Managing social media strategy and online engagement for the club.",
+      image: "/images/PHOTO-2025-11-14-16-45-56.jpg"
     },
     {
-      name: "Jatin Sharma",
-      position: "Co-head Tech",
+      name: "Shikhar",
+      position: "Co-Head Finance Team",
       year: "Senior",
       major: "Computer Science",
-      // email: "sneha.iyer@student.edu",
-      // linkedin: "linkedin.com/in/snehaiyer",
-      bio: "Managing website and its maintenance and engaging with the online community.",
-      image: "/images/PHOTO-2025-11-17-23-05-18.jpg"
+      email: "shikhar@student.edu",
+      bio: "Contributing to club activities and initiatives.",
+      image: "/images/PHOTO-2025-11-14-15-26-11.jpg"
     },
+    
     {
-      name: "Piyush Yadav",
-      position: "Head of Tech",
-      year: "Senior",
-      major: "computer Science",
-      // email: "karan.malhotra@student.edu",
-      bio: "Creatiion of website and its maintenance and engaging with the online community.",
-      image: "/images/PHOTO-2025-11-18-01-22-45.jpg"
+      name: "Garvita Singh",
+      position: "Head Management Team",
+     year: "Senior",
+      major: "Computer Science",
+      email: "garvita.singh@student.edu",
+      bio: "Leading content creation and writing initiatives for the club.",
+      image: "/images/PHOTO-2025-11-14-16-38-05.jpg"
     },
+    
+    
     // {
     //   name: "Divya Joshi",
     //   position: "Head of Mentorship",
